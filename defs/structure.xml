@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_eviltheme"	file="amp_misc_eviltheme.catalog"/>
+    <huitheme	name="evil"	file="evil.huitheme"	catalog="amp_misc_eviltheme"/>
+    <huicolorsset	name="evil"	file="evil.huicolorsset"	catalog="amp_misc_eviltheme"/>
+    <huistyle	name="evil"	file="evil.huistyle"	catalog="amp_misc_eviltheme"/>
+
+</structure>
